@@ -3,5 +3,5 @@
 
 
 def floor(a: float) -> int:
-    '''Computes.'''
+    '''Computes the floor of.'''
     return int(a)
