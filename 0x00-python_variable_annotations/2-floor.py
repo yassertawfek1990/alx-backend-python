@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-'''Tas'''
+"""Contains number."""
+import math
 
 
-def floor(a: float) -> int:
-    '''Computes the floor of.'''
-    return int(a)
+def floor(n: float) -> int:
+    """Returns float."""
+    return math.floor(n)
