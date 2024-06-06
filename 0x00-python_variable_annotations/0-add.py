@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-'''T'''
+"""Modul"""
 
 
 def add(a: float, b: float) -> float:
-    '''A'''
+    """ Add two"""
     return a + b
